@@ -39,14 +39,14 @@ spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs
 
 ### 2017
 
-(PNAS 2017.07) De novo peptide sequencing by deep learning [paper]([De novo peptide sequencing by deep learning (pnas.org)](https://www.pnas.org/doi/epdf/10.1073/pnas.1705691114)) [code]([nh2tran/DeepNovo: Protein Identification with Deep Learning (github.com)](https://github.com/nh2tran/DeepNovo))
+(PNAS 2017.07) De novo peptide sequencing by deep learning [paper](https://www.pnas.org/doi/epdf/10.1073/pnas.1705691114) [code](https://github.com/nh2tran/DeepNovo)
 
 (Anal. Chem. 2017.11) pDeep: Predicting MS/MS Spectra of Peptides with Deep Learning [paper](https://pubs.acs.org/doi/10.1021/acs.analchem.7b02566) [code](https://github.com/pFindStudio/pDeep)
 
 
 ### 2019
 
-(Nature Methods 2019.01) Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry [paper](
+(Nature Methods 2019.01) Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry [paper](https://www.nature.com/articles/s41592-018-0260-3)
 
 (Arxiv 2019.05) DeepNovoV2: Better de novo peptide sequencing with deep learning [paper](https://arxiv.org/pdf/1904.08514.pdf) [code](https://github.com/volpato30/DeepNovoV2)
 
