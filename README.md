@@ -34,6 +34,10 @@ If you have come across relevant resources, feel free to open an issue or submit
 spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs/pii/S0003267023005512)
 
 
+## Benchmark
+
+(NeurIPS 2024) NovoBench: Benchmarking Deep Learning-based De Novo Peptide Sequencing Methods in Proteomics [paper] (https://arxiv.org/pdf/2406.11906)
+
 
 ## Paper
 
@@ -78,5 +82,12 @@ spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs
 
 (PLoS Comput. Biol. 2024.02) Bidirectional de novo peptide sequencing using a transformer model [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011892) [code](https://github.com/ProteomeTeam/NovoB)
 
-(Arxiv 2024.03) AdaNovo: Adaptive \emph{De Novo} Peptide Sequencing with Conditional Mutual Information [paper](https://arxiv.org/abs/2403.07013)
+(bioRxiv 2024.05) π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing [paper] (https://www.biorxiv.org/content/10.1101/2024.05.17.594647v1)
+
+(NeurIPS 2024) AdaNovo: Adaptive \emph{De Novo} Peptide Sequencing with Conditional Mutual Information [paper](https://arxiv.org/abs/2403.07013)
+
+(NeurIPS 2024 AIDrugX) Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo [paper] (https://openreview.net/pdf?id=MfphfLFhD4)
+
+
+
 
