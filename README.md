@@ -1,5 +1,7 @@
 # Awesome-Denovo-Peptide-Sequencing
 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/jingbo02/Awesome-Denovo-Peptide-Sequencing?color=yellow)  ![Forks](https://img.shields.io/github/forks/jingbo02/Awesome-Denovo-Peptide-Sequencing?color=blue&label=Fork)
+
 Paper collection about *de novo* peptide Sequening
 
 *De novo* peptide sequencing from mass spectrometry (MS) data is a critical task in proteomics research. Traditional algorithms have faced accuracy bottlenecks due to the inherent complexity of proteomics data. Deep learning methods, however, have shown promising progress in this area. This repository is dedicated to curating a collection of research papers focused on deep learning for de novo peptide sequencing, highlighting advancements in this field.
@@ -88,6 +90,8 @@ spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs
 
 (NeurIPS 2024 AIDrugX) Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo [paper](https://openreview.net/pdf?id=MfphfLFhD4)
 
+(ICLR 2025 Under Review) ReNovo: Retrieval-Based \emph{De Novo} Mass Spectrometry Peptide Sequencing [paper](https://openreview.net/forum?id=uQnvYP7yX9)
 
+(ICLR 2025 Under Review) RankNovo: A Universal Reranking Approach for Robust De Novo Peptide Sequencing [paper](https://openreview.net/forum?id=87B3zDRMjv)
 
 
