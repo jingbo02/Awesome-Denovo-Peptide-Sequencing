@@ -108,7 +108,7 @@ spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs
 
 (NeurIPS 2024) AdaNovo: Adaptive \emph{De Novo} Peptide Sequencing with Conditional Mutual Information [paper](https://arxiv.org/abs/2403.07013)
 
-
+(Scientific Reports 2024.07) PowerNovo: de novo peptide sequencing via tandem mass spectrometry using an ensemble of transformer and BERT models [paper](https://www.nature.com/articles/s41598-024-65861-0)
 
 ### 2025
 
