@@ -35,6 +35,7 @@ If you have come across relevant resources, feel free to open an issue or submit
 (Analytica Chimica Acta 2023.05) Algorithms for de-novo sequencing of peptides by tandem mass 
 spectrometry: A review [paper](https://www.sciencedirect.com/science/article/abs/pii/S0003267023005512)
 
+(Analytical Science) Deep Learning Methods for De Novo Peptide Sequencing [paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/mas.21919)
 
 ## Benchmark
 
